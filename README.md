@@ -19,7 +19,6 @@
 ## Stats
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=2034&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" />
     <img src="https://komarev.com/ghpvc/?username=2034&color=grey&style=for-the-badge&abbreviated=true" alt="Profile Views">
 </p>
 
