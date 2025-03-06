@@ -20,7 +20,8 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=2034&color=grey&style=for-the-badge&abbreviated=true" alt="Profile Views">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2034&hide_border=true&card_width=338&theme=transparent"/>
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=2034&hide_border=true&card_width=338&theme=transparent"/>
 </p>
 
 ## Contact
